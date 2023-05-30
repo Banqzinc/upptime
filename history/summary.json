@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 55,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://dev.banqz.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.banqz.com.ico",
     "slug": "banqz-dev",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "status": "up",
+    "uptime": "1.64%",
+    "uptimeDay": "1.64%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "1.64%",
+    "uptimeYear": "1.64%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://testing.banqz.com",
     "icon": "https://icons.duckduckgo.com/ip3/testing.banqz.com.ico",
     "slug": "banqz-testing",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "status": "up",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 7
     }
   }
 ]
