@@ -40,10 +40,10 @@
     "url": "https://dev.banqz.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.banqz.com.ico",
     "slug": "banqz-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 164,
@@ -52,6 +52,7 @@
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2023-06-16": 1,
       "2023-05-30": 7
     }
   },
@@ -60,7 +61,7 @@
     "url": "https://testing.banqz.com",
     "icon": "https://icons.duckduckgo.com/ip3/testing.banqz.com.ico",
     "slug": "banqz-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +73,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-05-30": 7
     }
   }
