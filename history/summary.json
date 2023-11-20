@@ -1,12 +1,12 @@
 [
   {
     "name": "Gateway dev",
-    "url": "https://dev.banqz.com/healthcheck",
-    "icon": "https://icons.duckduckgo.com/ip3/dev.banqz.com.ico",
+    "url": "https://dev.quidkey.com/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.quidkey.com.ico",
     "slug": "gateway-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 156,
     "timeMonth": 844,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Gateway testing",
-    "url": "https://testing.banqz.com/healthcheck",
-    "icon": "https://icons.duckduckgo.com/ip3/testing.banqz.com.ico",
+    "url": "https://testing.quidkey.com/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/testing.quidkey.com.ico",
     "slug": "gateway-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 152,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Merchant backend dev",
@@ -49,7 +53,7 @@
     "time": 130,
     "timeDay": 103,
     "timeWeek": 99,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1728,
-    "timeDay": 97,
-    "timeWeek": 95,
-    "timeMonth": 102,
-    "timeYear": 1728,
+    "time": 1709,
+    "timeDay": 94,
+    "timeWeek": 93,
+    "timeMonth": 101,
+    "timeYear": 1709,
     "dailyMinutesDown": {}
   }
 ]
