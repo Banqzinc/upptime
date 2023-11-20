@@ -4,13 +4,13 @@ repo: upptime
 
 sites:
   - name: Gateway dev
-    url: https://dev.banqz.com/healthcheck
+    url: https://dev.quidkey.com/healthcheck
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: 'OK'
       
   - name: Gateway testing
-    url: https://testing.banqz.com/healthcheck
+    url: https://testing.quidkey.com/healthcheck
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: 'OK'
@@ -31,15 +31,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.banqz.com
   # baseUrl: /your-repo-name
-  logoUrl: https://banqz.com/img/logo_white_desktop.png
-  name: Banqz Status
-  introTitle: Banqz Status
-  introMessage: Banqz Status
+  logoUrl: https://quidkey.com/assets/Quidkey.svg
+  name: Quidkey Status
+  introTitle: Quidkey Status
+  introMessage: Quidkey Status
   navbar:
     - title: Status
       href: /
     - title: Homepage
-      href: https://banqz.com
+      href: https://quidkey.com
 assignees: # Users to assign downtime issues (optional)
   - Ohad-Lu
 workflowSchedule:
