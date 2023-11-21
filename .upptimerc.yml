@@ -51,6 +51,6 @@ workflowSchedule:
   uptime: "0 22 * * *"
 
 i18n:
-  footer: 
+  footer: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
