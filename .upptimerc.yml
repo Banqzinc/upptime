@@ -31,8 +31,8 @@ status-website:
   cname: status.quidkey.com
   # baseUrl: /upptime
   logoUrl: https://quidkey.com/assets/Quidkey.svg
-  name: Status Page
-  introTitle: Quidkey Status
+  name: Quidkey Status
+  # introTitle: Quidkey Status
   # introMessage: Quidkey Status
   navbar:
     - title: Status
