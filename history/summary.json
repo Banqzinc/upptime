@@ -4,71 +4,79 @@
     "url": "https://testbe-portal.quidkey.com/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/testbe-portal.quidkey.com.ico",
     "slug": "mechant-portal-backend-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 159,
+    "time": 140,
+    "timeDay": 156,
     "timeWeek": 148,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {
+      "2023-12-04": 0
+    }
   },
   {
     "name": "Mechant portal backend dev",
     "url": "https://devbe-portal.quidkey.com/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/devbe-portal.quidkey.com.ico",
     "slug": "mechant-portal-backend-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 132,
-    "timeWeek": 149,
-    "timeMonth": 143,
-    "timeYear": 143,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 93,
+    "timeWeek": 137,
+    "timeMonth": 138,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2023-12-04": 0
+    }
   },
   {
     "name": "Merchant portal frontend testing",
     "url": "https://testfe-portal.quidkey.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/testfe-portal.quidkey.com.ico",
     "slug": "merchant-portal-frontend-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 107,
+    "timeDay": 117,
     "timeWeek": 125,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-04": 0
+    }
   },
   {
     "name": "Merchant portal frontend dev",
     "url": "https://devfe-portal.quidkey.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/devfe-portal.quidkey.com.ico",
     "slug": "merchant-portal-frontend-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 131,
-    "timeWeek": 140,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 129,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2023-12-04": 0
+    }
   }
 ]
