@@ -1,7 +1,7 @@
-url: https://devfe-portal.quidkey.com/healthcheck
-status: down
-code: 404
-responseTime: 71
-lastUpdated: 2023-12-04T23:00:30.143Z
+url: https://merchant-front-dev.quidkey.com/healthcheck
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2023-12-05T07:44:01.601Z
 startTime: 2023-11-21T08:38:19.381Z
 generator: Upptime <https://github.com/upptime/upptime>
