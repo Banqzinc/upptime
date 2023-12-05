@@ -3,25 +3,25 @@ owner: Banqzinc
 repo: upptime 
 
 sites:
-  - name: Mechant portal backend testing
-    url: https://testbe-portal.quidkey.com/health_check
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: 'OK'
+  # - name: Mechant portal backend testing
+  #   url: https://testbe-portal.quidkey.com/health_check
+  #   expectedStatusCodes:
+  #     - 200
+  #   __dangerous__body_down_if_text_missing: 'OK'
       
   - name: Mechant portal backend dev
-    url: https://devbe-portal.quidkey.com/health_check
+    url: https://merchant-backend-dev.quidkey.com/health_check
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: 'OK'
 
-  - name: Merchant portal frontend testing
-    url: https://testfe-portal.quidkey.com/healthcheck
-    expectedStatusCodes:
-      - 200
+  # - name: Merchant portal frontend testing
+  #   url: https://testfe-portal.quidkey.com/healthcheck
+  #   expectedStatusCodes:
+  #     - 200
       
   - name: Merchant portal frontend dev
-    url: https://devfe-portal.quidkey.com/healthcheck
+    url: https://merchant-front-dev.quidkey.com/healthcheck
     expectedStatusCodes:
       - 200
       
