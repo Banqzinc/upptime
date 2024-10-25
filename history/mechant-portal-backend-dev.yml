@@ -1,7 +1,7 @@
 url: https://merchant-backend-dev.quidkey.com/health_check
 status: down
-code: 404
-responseTime: 105
-lastUpdated: 2024-10-24T23:00:26.509Z
+code: 500
+responseTime: 268
+lastUpdated: 2024-10-25T23:00:26.346Z
 startTime: 2023-11-21T08:38:18.416Z
 generator: Upptime <https://github.com/upptime/upptime>
