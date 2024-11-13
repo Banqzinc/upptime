@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/core-prd.quidkey.com.ico",
     "slug": "core-service",
     "status": "up",
-    "uptime": "2.23%",
-    "uptimeDay": "2.23%",
-    "uptimeWeek": "2.23%",
-    "uptimeMonth": "2.23%",
-    "uptimeYear": "2.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-11-13": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Merchants Front",
