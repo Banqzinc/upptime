@@ -3,43 +3,32 @@ owner: Banqzinc
 repo: upptime 
 
 sites:
-  # - name: Mechant portal backend testing
-  #   url: https://testbe-portal.quidkey.com/health_check
-  #   expectedStatusCodes:
-  #     - 200
-  #   __dangerous__body_down_if_text_missing: 'OK'
-      
-  - name: Mechant portal backend dev
-    url: https://merchant-backend-dev.quidkey.com/health_check
+  - name: Core Service
+    url: https://core-prd.quidkey.com
     expectedStatusCodes:
-      - 200
+      - 404
     __dangerous__body_down_if_text_missing: 'OK'
 
-  # - name: Merchant portal frontend testing
-  #   url: https://testfe-portal.quidkey.com/healthcheck
-  #   expectedStatusCodes:
-  #     - 200
-      
-  - name: Merchant portal frontend dev
-    url: https://merchant-front-dev.quidkey.com/healthcheck
+  - name: Merchants Front
+    url: https://merchants.quidkey.com/healthcheck
     expectedStatusCodes:
       - 200
-      
+    
+  - name: Merchants Backend
+    url: https://merchant-backend-prd.quidkey.com
+    expectedStatusCodes:
+      - 404
+  
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.quidkey.com
-  # baseUrl: /upptime
-  logoUrl: https://quidkey.com/assets/Quidkey.svg
+  logoUrl: https://cdn.prod.website-files.com/66cf17d804de8a631e087651/66d09ab394bd834bf4067c59_logo.svg
   name: Quidkey Status
-  # introTitle: Quidkey Status
-  # introMessage: Quidkey Status
   navbar:
     - title: Status
       href: /
     - title: Homepage
       href: https://quidkey.com
-assignees: # Users to assign downtime issues (optional)
+assignees: 
   - Ohad-Lu
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -52,5 +41,3 @@ workflowSchedule:
 
 i18n:
   footer: ""
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
