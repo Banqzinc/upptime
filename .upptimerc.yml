@@ -7,7 +7,6 @@ sites:
     url: https://core-prd.quidkey.com
     expectedStatusCodes:
       - 404
-    __dangerous__body_down_if_text_missing: 'OK'
 
   - name: Merchants Front
     url: https://merchants.quidkey.com/healthcheck
