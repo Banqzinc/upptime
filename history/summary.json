@@ -4,7 +4,7 @@
     "url": "https://core-prd.quidkey.com",
     "icon": "https://icons.duckduckgo.com/ip3/core-prd.quidkey.com.ico",
     "slug": "core-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 78,
-    "timeWeek": 124,
+    "timeWeek": 129,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "Merchants Front",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 81,
-    "timeWeek": 141,
+    "timeWeek": 133,
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 76,
-    "timeWeek": 126,
+    "timeWeek": 129,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {}
