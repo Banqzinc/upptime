@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: Core Service
-    url: https://core-prd.quidkey.com
+    url: https://core.quidkey.com
     expectedStatusCodes:
       - 404
 
