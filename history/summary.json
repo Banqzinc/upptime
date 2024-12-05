@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 80,
-    "timeWeek": 113,
+    "timeDay": 122,
+    "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 87,
-    "timeWeek": 130,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "time": 134,
+    "timeDay": 135,
+    "timeWeek": 127,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "https://merchant-backend-prd.quidkey.com",
     "icon": "https://icons.duckduckgo.com/ip3/merchant-backend-prd.quidkey.com.ico",
     "slug": "merchants-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 110,
-    "timeWeek": 139,
+    "timeDay": 0,
+    "timeWeek": 137,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   }
 ]
