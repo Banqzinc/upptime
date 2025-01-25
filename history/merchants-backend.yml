@@ -1,7 +1,7 @@
 url: https://merchant-backend-prd.quidkey.com
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-24T23:01:51.545Z
+code: 500
+responseTime: 133
+lastUpdated: 2025-01-25T23:00:59.567Z
 startTime: 2024-12-02T11:47:37.183Z
 generator: Upptime <https://github.com/upptime/upptime>
